@@ -66,6 +66,7 @@ title('Band Pass FIR Filter using Blackman Window');
 
 
 ## OUTPUT:
+<img width="1918" height="1017" alt="Screenshot 2026-03-26 114801" src="https://github.com/user-attachments/assets/be35719e-f051-48fb-a4a3-20c86c3f8a94" />
 
 ## RESULT:
 ![WhatsApp Image 2026-04-01 at 6 06 03 PM](https://github.com/user-attachments/assets/a2c832fc-3d2f-4b69-a48d-053f23b93572)
