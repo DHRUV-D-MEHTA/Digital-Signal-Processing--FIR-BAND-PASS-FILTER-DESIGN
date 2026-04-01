@@ -68,5 +68,3 @@ title('Band Pass FIR Filter using Blackman Window');
 ## OUTPUT:
 
 ## RESULT:
-
-## RESULT:
